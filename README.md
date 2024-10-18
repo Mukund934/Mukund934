@@ -86,12 +86,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund_TH04&layout=compact&langs_count=10&hide=html)
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukund_TH04&show_icons=true&theme=default)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukund_TH04&" alt="Mukund" /></p>
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mukund_TH04&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukundThakur&layout=compact&langs_count=10&hide=html)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukundThakur&show_icons=true&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MukundThakur&theme=default" alt="Mukund's streak" /></p>
 
 ---
 
