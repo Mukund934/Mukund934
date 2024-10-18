@@ -86,9 +86,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MukundThakur&layout=compact&langs_count=10&hide=html)
-![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=MukundThakur&show_icons=true&theme=default)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MukundThakur&theme=default" alt="Mukund's streak" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukund934&layout=compact&langs_count=10&hide=html)
+![Mukund's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukund934&show_icons=true&theme=default)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mukund934&theme=default" alt="Mukund's streak" /></p>
 
 ---
 
