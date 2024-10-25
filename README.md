@@ -1,6 +1,6 @@
 <h1 align="left" style="color:white;">Hey 👋 What's up?</h1>
 
-<p align="left">My name is <strong>Mukund Thakur</strong>, and I'm a Full Stack Developer and Competitive Programmer 🚀. Currently, I'm pursuing a degree in Computer Science & Engineering 📚 at the International Institute of Information Technology, Naya Raipur. I have a strong passion for Web Development, AI, Cloud Computing, and Competitive Programming 💙. Right now, I'm actively involved in creating software and applications using various tools and technologies. Check out my portfolio on GitHub!</p>
+<p align="left">My name is <strong>Mukund Thakur</strong>, and I'm a Full Stack Developer and Competitive Programmer 🚀. Currently, I'm pursuing a degree in Electronics & Communication Engineering 📚 at the International Institute of Information Technology, Naya Raipur. I have a strong passion for Web Development, AI, Cloud Computing, and Competitive Programming 💙. Right now, I'm actively involved in creating software and applications using various tools and technologies. Check out my portfolio on GitHub!</p>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
